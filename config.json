@@ -5,8 +5,8 @@
     "auto-night-skip": "false",
     "prefix": "",
     "login-enabled": "true",
-    "register-cmd": "/login kartikopp kartikopp",
-    "login-cmd": "/login kartikopp",
-    "loginmsg": "",
+    "register-cmd": "",
+    "login-cmd": "",
+    "loginmsg": "fk darknss",
     "auto-reconnect": "true"
 }
